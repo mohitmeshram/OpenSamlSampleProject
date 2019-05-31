@@ -1,0 +1,13 @@
+com\OpenSamlSSO\AuthLoginDelegator.class
+com\OpenSamlSSO\SamlRequestController.class
+com\OpenSamlSSO\SamlRequestHandler.class
+com\OpenSamlSSO\AuthenticationResponseType.class
+com\OpenSamlSSO\IAuthClientHandler.class
+com\OpenSamlSSO\SAMLMessageHandler.class
+com\OpenSamlSSO\EnterpriseConfig.class
+com\OpenSamlSSO\SAML2ReponseValidator.class
+com\OpenSamlSSO\SAMLSPResponseHandler.class
+com\OpenSamlSSO\SAMLResponseContext.class
+com\OpenSamlSSO\AuthRequestGenerator.class
+com\OpenSamlSSO\AuthenticationResponse.class
+com\OpenSamlSSO\OpenSamlSsoApplication.class
